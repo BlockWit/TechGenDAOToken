@@ -1,4 +1,4 @@
-![TGDao](logo.jpg "TechGen DAO Token")
+![TGDao](logo.png "TechGen DAO Token")
 
 # TechGen DAO Token smart contract
 
